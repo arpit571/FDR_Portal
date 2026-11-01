@@ -1,0 +1,9 @@
+{
+  "fdr_number": { "value": "DEMO-FDR-GENERIC", "confidence": 0.90, "source_text": "FDR No: DEMO-FDR-GENERIC" },
+  "bank_name": { "value": "Sample Bank", "confidence": 0.95, "source_text": "Bank: Sample Bank" },
+  "principal": { "value": "1000000", "confidence": 0.92, "source_text": "Amount: Rs. 10,00,000/-" },
+  "rate": { "value": "7.0", "confidence": 0.88, "source_text": "ROI: 7.00%" },
+  "start_date": { "value": "2022-01-01", "confidence": 0.93, "source_text": "Issue Date: 01/01/2022" },
+  "maturity_date": { "value": "2027-01-01", "confidence": 0.91, "source_text": "Maturity: 01/01/2027" },
+  "depositor_name": { "value": "Sample Institution", "confidence": 0.87, "source_text": "Depositor: Sample Institution" }
+}

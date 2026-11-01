@@ -1,0 +1,5 @@
+institution_code,deposit_ref,fdr_number,bank_name,principal,rate,start_date,maturity_date
+INST-001,DEP-001-CSV,DEMO-CSV-001,State Bank of India,3500000,6.5,2022-01-01,2027-01-01
+INST-002,DEP-002-CSV,DEMO-CSV-002,Punjab National Bank,3500000,6.75,2022-03-15,2027-03-15
+INST-003,DEP-003-CSV,DEMO-CSV-003,ICICI Bank,1500000,7.0,2022-06-01,2027-06-01
+INST-INVALID,DEP-BAD,DEMO-CSV-BAD,State Bank of India,1000000,6.5,2022-01-01,2027-01-01

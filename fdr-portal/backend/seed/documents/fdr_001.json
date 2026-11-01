@@ -1,0 +1,9 @@
+{
+  "fdr_number": { "value": "DEMO-FDR-10001", "confidence": 0.97, "source_text": "FDR No: DEMO-FDR-10001" },
+  "bank_name": { "value": "State Bank of India", "confidence": 0.99, "source_text": "BANK: State Bank of India" },
+  "principal": { "value": "3500000", "confidence": 0.95, "source_text": "Amount: Rs. 35,00,000/-" },
+  "rate": { "value": "6.5", "confidence": 0.91, "source_text": "Rate of Interest: 6.50% p.a." },
+  "start_date": { "value": "2021-10-25", "confidence": 0.93, "source_text": "Issue Date: 25/10/2021" },
+  "maturity_date": { "value": "2026-11-08", "confidence": 0.94, "source_text": "Maturity Date: 08/11/2026" },
+  "depositor_name": { "value": "Sample Engineering College", "confidence": 0.89, "source_text": "Depositor: Sample Engineering College" }
+}

@@ -1,0 +1,9 @@
+{
+  "fdr_number": { "value": "DEMO-FDR-10005", "confidence": 0.61, "source_text": "FDR N0: DEM0-FDR-10005" },
+  "bank_name": { "value": "ICICI Bank", "confidence": 0.98, "source_text": "BANK: ICICI Bank Ltd" },
+  "principal": { "value": "1500000", "confidence": 0.72, "source_text": "Amt: 15,OO,OOO" },
+  "rate": { "value": "7.25", "confidence": 0.88, "source_text": "ROI: 7.25%" },
+  "start_date": { "value": "2021-11-10", "confidence": 0.91, "source_text": "Date: 10.11.2021" },
+  "maturity_date": { "value": "2026-11-10", "confidence": 0.65, "source_text": "Maturity: 10/11/2O26" },
+  "depositor_name": { "value": "National Institute of Management", "confidence": 0.82, "source_text": "Depositor: National Inst. of Management" }
+}
